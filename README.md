@@ -1,2 +1,3 @@
-# guess-the-number-java
-A beginner-friendly Java project where the user guesses a randomly generated number, receiving "too high" or "too low" hints until correct.
+🎯 Guess The Number Game - Java Console Project
+This is a beginner Java project demonstrating loops, conditionals, and random number generation.
+User keeps guessing until correct answer is found with hints.
