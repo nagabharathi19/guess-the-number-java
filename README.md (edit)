@@ -1,0 +1,29 @@
+# 🎯 Guess The Number Game (Java)
+
+A simple console-based Java project where the computer generates a random number and the user has to guess it with hints.
+
+---
+
+## 🚀 Features
+- Random number generation (1 to 100)
+- User input using Scanner
+- Hints: "Too High" or "Too Low"
+- Infinite attempts until correct guess
+- Beginner-friendly logic using loops and conditions
+
+---
+
+## 🧠 Concepts Used
+- Loops (`while`)
+- Conditional statements (`if-else`)
+- Random number generation
+- User input handling
+- Basic Java programming logic
+
+---
+
+## ▶️ How to Run
+
+### 1. Compile the code
+```bash
+javac Main.java
